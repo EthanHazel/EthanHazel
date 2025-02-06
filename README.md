@@ -2,6 +2,8 @@
 
 # 👋 Hey, I'm Ethan Hazel
 
+I'm a full-stack web developer, with a focus on responsive front-end user interface design and also back-end architecture. I also love the open source community and enjoy collaborating with projects that make a difference.
+
 ## 🚀 Personal Projects
 
 - 🌟 [Wisp](https://github.com/WispTools)
