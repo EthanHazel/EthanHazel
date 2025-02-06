@@ -4,8 +4,8 @@
 
 ### Some of my personal projects
 
-- Wisp
-- Kinzoku
+- [Wisp](https://github.com/WispTools)
+- Kinzoku (currently closed source)
 
 ### My socials
 
