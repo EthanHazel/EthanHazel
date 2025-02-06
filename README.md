@@ -1,3 +1,5 @@
-# Hey, I'm Ethan Hazel, what's up?
+## 👋 Hey, I'm Ethan Hazel
+
+### What's up?
 
 This is a placeholder readme file that I'm working on
