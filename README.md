@@ -6,12 +6,12 @@ I'm a full-stack web developer, with a focus on responsive front-end user interf
 
 ## 🚀 Personal Projects
 
-- 🌟 [Wisp](https://github.com/WispTools)
-- 🔒 Kinzoku (currently closed source)
+- [**Wisp**](https://github.com/WispTools)
+- **Kinzoku** (currently closed source)
 
 ## 🌐 Connect with Me
 
-- 🐦 [Twitter](https://x.com/EthanHazelGD) (I'm not calling this X)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ethan-hazel/)
-- 📧 [Email](mailto:contact@ehazel.com)
-- 🌍 [Website](https://ehazel.com/)
+- 🐦 [**Twitter**](https://x.com/EthanHazelGD) (I'm not calling this X)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/ethan-hazel/)
+- 📧 [**Email**](mailto:contact@ehazel.com)
+- 🌍 [**My Website**](https://ehazel.com/)
