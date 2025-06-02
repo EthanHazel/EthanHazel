@@ -8,6 +8,7 @@ I'm a full-stack web developer, with a focus on responsive front-end user interf
 
 - [**Wisp**](https://github.com/WispTools)
 - [**FlaredFolders**](https://github.com/EthanHazel/flaredfolders)
+- [**ICOR**](https://github.com/EthanHazel/icor)
 - **Kinzoku** (currently closed source)
 
 ## 🌐 Connect with Me
