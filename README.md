@@ -8,8 +8,6 @@ I'm a full-stack web developer, with a focus on responsive front-end user interf
 
 - [**FlaredFolders**](https://github.com/EthanHazel/flaredfolders)
 - [**YTheatre**](https://github.com/EthanHazel/ytheatre)
-- [**ICOR**](https://github.com/EthanHazel/icor)
-- [**Wisp**](https://github.com/WispTools)
 - **OpenMetaKit** (currently closed source)
 
 ## 🌐 Connect with Me
