@@ -8,6 +8,7 @@ I'm a web developer, with a focus on front end user interface design. I also lov
 
 - [**FlaredFolders**](https://github.com/EthanHazel/flaredfolders)
 - [**QuickFlair**](https://github.com/EthanHazel/quickflair)
+- [**Yu**](https://github.com/EthanHazel/yu)
 - [**YTheatre**](https://github.com/EthanHazel/ytheatre)
 
 ## Connect with Me
