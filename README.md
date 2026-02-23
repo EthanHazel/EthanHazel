@@ -4,6 +4,9 @@
 
 I'm a web developer, with a focus on front end user interface design. I also love the open source community and enjoy collaborating with projects that make a difference.
 
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/ethanhazel)
+![ProfileViews](https://komarev.com/ghpvc/?username=EthanHazel&color=080808)
+
 ## Personal Projects
 
 | Name                                                                                                                                                                           | Description                                                                   |                                                                                                                                                                           Tags |
