@@ -1,4 +1,4 @@
-![Img](Des&Dev.png)
+![Img](.github/images/Des&Dev.png)
 
 # Hey, I'm Ethan Hazel
 
@@ -6,14 +6,15 @@ I'm a web developer, with a focus on front end user interface design. I also lov
 
 ## Personal Projects
 
-- [**FlaredFolders**](https://github.com/EthanHazel/flaredfolders)
-- [**QuickFlair**](https://github.com/EthanHazel/quickflair)
-- [**Yu**](https://github.com/EthanHazel/yu)
-- [**YTheatre**](https://github.com/EthanHazel/ytheatre)
+| Name                                                                                                                                                                           | Description                                                                   | Tags                                                                                                                                                                           |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://github.com/EthanHazel/flaredfolders"><img src=".github/images/projects/flaredfolders.png" alt="FlaredFolders" align=left width=24 height=24>FlaredFolders</a> | Folder customization website for Windows                                      | [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)                                                                                       |
+| <a href="https://github.com/EthanHazel/quickflair"><img src=".github/images/projects/quickflair.png" alt="QuickFlair" align=left width=24 height=24>QuickFlair</a>             | .ICO handler tool for Windows                                                 | [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)                                                                                             |
+| <a href="https://github.com/EthanHazel/flaredyufolders"><img src=".github/images/projects/yu.png" alt="Yu" align=left width=24 height=24>Yu</a>                                | Home server application for setting YouTube videos as alarms for your Roku TV | [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#) |
+| <a href="https://github.com/EthanHazel/ytheatre"><img src=".github/images/projects/ytheatre.png" alt="YTheatre" align=left width=24 height=24>YTheatre</a>                     | Smart TV YouTube client for Windows with extension and controller support     | [![Electron](https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff)](#)                                                                                     |
 
-## Connect with Me
-
-- [**Twitter**](https://x.com/EthanHazelGD) (I'm not calling this X)
-- [**LinkedIn**](https://www.linkedin.com/in/ethan-hazel/)
-- [**Email**](mailto:contact@ehazel.com)
-- [**My Website**](https://ehazel.com/)
+> Connect with Me
+> <a href="https://www.ehazel.com/"><img src=".github/images/logo.svg" alt="My Website" width=24 height=24 /></a>
+> <a href="https://www.ehazel.com/x"><img src=".github/images/x.svg" alt="X" width=24 height=24 /></a>
+> <a href="https://www.ehazel.com/linkedin"><img src=".github/images/linkedin.svg" alt="LinkedIn" width=24 height=24 /></a>
+> <a href="mailto:ethanyvonhazel@gmail.com"><img src=".github/images/mail.svg" alt="Email" width=24 height=24 /></a>
